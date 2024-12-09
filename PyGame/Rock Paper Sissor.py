@@ -5,6 +5,7 @@ import math
 # Initialize pygame
 pygame.init()
 
+
 # Constants
 WINDOW_WIDTH = 810
 WINDOW_HEIGHT = 1440
